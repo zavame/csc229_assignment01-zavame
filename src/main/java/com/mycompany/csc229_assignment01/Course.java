@@ -35,5 +35,6 @@ package com.mycompany.csc229_assignment01;
 public class Course {
     
     private int ID;
+    private String name;
 
 }
