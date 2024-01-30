@@ -35,6 +35,15 @@ package com.mycompany.csc229_assignment01;
 public class Course {
     
     private int ID;
+
+    public int getID() {
+        return ID;
+    }
+
+    public void setID(int ID) {
+        this.ID = ID;
+    }
+
     private String name;
     private String code;
 
